@@ -1,0 +1,10 @@
+.btn-banner {
+  display: inline-block;
+  background-color: #74f374;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  padding: 15px 20px;
+  margin-top: 20px;
+  border-radius: 30px;
+}

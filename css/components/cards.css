@@ -1,0 +1,25 @@
+.cards {
+  display: flex;
+
+}
+
+.card {
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  justify-content: center;
+  height: 220px;
+  width: 220px;
+  margin: auto;
+
+}
+
+.card h3 {
+  margin-top: 20px;
+}
+
+.card img {
+  width: 100px;
+  margin-top: 15px;
+}
